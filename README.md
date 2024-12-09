@@ -10,4 +10,4 @@ The output you can expect from the tool comes in a few different forms.
 * Scatter Plots
   * The scatterplot with show each of the methods used to find anomalies and then chart these along with the other data with contrasting colors to show them. It will go column by column, generating a chart for each.
 * Anamoly Reports
-* 
+   * The anomaly report will print directly to the shell of the editor you're running the script in. It will give you a list of different data points regarding the anomalies on a column by column basis such as mean, count, std deviation, etc.
